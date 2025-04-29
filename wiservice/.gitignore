@@ -122,3 +122,6 @@ firebase-debug.log
 # -------------------
 .env
 .env.*
+
+android/app/google-services.json
+
